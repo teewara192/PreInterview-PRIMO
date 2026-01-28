@@ -1,0 +1,4 @@
+node_modules
+dist
+converage
+.DS_Store
